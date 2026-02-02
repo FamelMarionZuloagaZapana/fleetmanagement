@@ -89,7 +89,7 @@ public class TaxiService {
     }
     
     /**
-     * se libera un taxi (se marcará como disponible)
+     * Libera un taxi (lo marca como disponible)
      * @param taxi taxi a liberar
      */
     public void releaseTaxi(Taxi taxi) {
