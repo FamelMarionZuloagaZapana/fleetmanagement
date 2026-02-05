@@ -2,9 +2,10 @@
 
 ## Explicacióin del gráfico UML
 
+![WhatsApp Image 2026-02-04 at 21 44 56](https://github.com/user-attachments/assets/24e80c1b-8f79-4012-99d3-c24250d89b66)
 
 
-![Uploading image.png…]()
+
 
 ## Estructura del Proyecto
 
